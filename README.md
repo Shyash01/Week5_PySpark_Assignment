@@ -1,8 +1,8 @@
-# Week 5 - PySpark Data Cleaning and Transformations
+# Week 6 - Spark Architecture and Data Processing
 
 ## Objective
 
-The objective of this assignment was to learn the fundamentals of PySpark and perform data cleaning, transformations, and aggregations using Spark DataFrames.
+The objective of this assignment was to understand Apache Spark architecture, execution flow, file formats, and common DataFrame operations using PySpark.
 
 ## Tools Used
 
@@ -23,15 +23,17 @@ The objective of this assignment was to learn the fundamentals of PySpark and pe
 
 - Loaded datasets into Spark DataFrames.
 - Explored dataset schemas.
-- Removed duplicate records.
-- Handled missing values.
-- Applied filtering and aggregation.
-- Converted data types.
-- Implemented a complete Spark processing pipeline.
+- Learned Spark architecture.
+- Understood Lazy Evaluation and DAG.
+- Worked with CSV and Parquet concepts.
+- Applied filtering and transformations.
+- Renamed columns and changed data types.
+- Created derived columns.
+- Performed DataFrame operations.
 
 ## Learning Outcomes
 
-- Understood Spark DataFrames.
-- Performed data cleaning operations.
-- Applied transformations and aggregations.
-- Learned the basics of Spark data processing.
+- Learned Spark architecture.
+- Understood Spark execution.
+- Practiced DataFrame operations.
+- Improved understanding of Spark performance concepts.
